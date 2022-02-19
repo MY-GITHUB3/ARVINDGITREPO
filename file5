@@ -1,2 +1,7 @@
 this is file in branch ARUN
+<<<<<<< HEAD
 this file5 of dev also
+=======
+this is one othe file in another branch of same repo also
+
+>>>>>>> 571a37dfcc59c9915f22bfb70a9ce91be06e3b76
