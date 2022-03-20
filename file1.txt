@@ -1,0 +1,8 @@
+DEVOPS
+
+git
+jenkins
+maven
+jfrog
+docker
+tomcat
