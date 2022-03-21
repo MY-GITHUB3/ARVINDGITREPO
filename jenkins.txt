@@ -1,1 +1,1 @@
-this a file creted for prctice purpose and it is a continuos depoyment and integration tool
+ it is a continuos depoyment and integration tool. and important tool of devops.
